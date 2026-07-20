@@ -1,16 +1,4 @@
-# SRN Full Multipage Website
-
-Upload every file and the `assets` folder to the root of your GitHub repository.
-
-Pages included:
-- Home
-- About
-- Operations Center
-- Live Weather
-- Storm Reports
-- Training Academy
-- Disaster Relief
-- Volunteer
-- Contact
-
-Important: do not upload only the ZIP. Extract it first and upload all files and folders.
+# SRN Version 3
+Upload all extracted files to the root of your existing repository.
+Use config.js for easy status and briefing updates.
+The logo is in the root to prevent the broken-image issue.
